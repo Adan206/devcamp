@@ -1,0 +1,19 @@
+{
+  "name": "devcamp",
+  "version": "1.0.0",
+  "description": "backend api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adan206/devcamp.git"
+  },
+  "author": "adan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adan206/devcamp/issues"
+  },
+  "homepage": "https://github.com/Adan206/devcamp#readme"
+}
